@@ -1,0 +1,27 @@
+.course-card {
+	width: 350px;
+	height:250px;
+	position: relative;
+	margin: 5px;
+	padding: 0 10px;
+	border: 1px solid #d7d7d7;
+	border-radius: 10px;
+	background-color: #ffffff;
+}
+
+.course-card__date {
+	font-weight: bold;
+}
+
+.course-card__inactive {
+	max-width: 138px;
+	padding: 5px 15px 5px 28px;
+	color: #ffffff;
+	font-weight: 700;
+	font-size: 18px;
+	background-color: #dd1515;
+}
+
+.course-card:hover {
+	background-color: #e6e6fa;
+}
