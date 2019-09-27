@@ -8,7 +8,7 @@
 $ git clone https://github.com/zokMeodoff/otus_hw25.git
 
 Установка необходимых зависимостей:
-$ cd otus_hw25/otus_courses_site_frontend/
+$ cd otus_hw25/
 $ npm install
 
 Запуск:
